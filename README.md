@@ -135,6 +135,12 @@ A 2-3 minute demonstration video showcasing:
 
 [Link to demo video: https://youtu.be/fw2V_sR1zng]
 
+
+## Figma design
+
+https://www.figma.com/design/A3dW0cfel5DxzZAuHDGSis/Erioluwa-Gideon-Olowoyo-%7C-FRONTEND-DEVELOPMENT-SUMMATIVE-SUBMISSION-%7C-THEME--Student-Finance-Tracker?node-id=1-80&t=kVIxe645a5ACoB5r-1
+
+
 ## Developer
 
 **Erioluwa Gideon Olowoyo**
@@ -144,6 +150,7 @@ A 2-3 minute demonstration video showcasing:
 ## 📄 License
 
 This project is created for educational purposes as part of a summative assignment.
+
 
 
 
