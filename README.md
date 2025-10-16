@@ -2,10 +2,10 @@
 
 A responsive, accessible web application for tracking student financial transactions built with vanilla HTML, CSS, and JavaScript.
 
-## 🎯 Theme
+##Selected Theme
 **Student Finance Tracker** - A comprehensive tool for managing student budgets, tracking expenses, and analyzing spending patterns.
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **Transaction Management**: Add, edit, and delete financial transactions
@@ -114,7 +114,7 @@ student-finance-tracker/
 ## Deployment
 
 This application is deployed on GitHub Pages. The live version can be accessed at:
-[Your GitHub Pages URL]
+https://git-with-gideon.github.io/Student-Finance-Tracker/
 
 ## Sample Data
 
@@ -144,5 +144,6 @@ A 2-3 minute demonstration video showcasing:
 ## 📄 License
 
 This project is created for educational purposes as part of a summative assignment.
+
 
 
