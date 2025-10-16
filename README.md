@@ -34,6 +34,7 @@ A responsive, accessible web application for tracking student financial transact
 2. **Open in browser**:
    - Simply open `index.html` in any modern web browser
    - Or use a local server: `python -m http.server 8000`
+   - RECOMMENDED: (Use of live server Extension for a better experience)
 
 3. **No dependencies required** - Pure vanilla HTML, CSS, and JavaScript
 
@@ -150,6 +151,7 @@ https://www.figma.com/design/A3dW0cfel5DxzZAuHDGSis/Erioluwa-Gideon-Olowoyo-%7C-
 ## 📄 License
 
 This project is created for educational purposes as part of a summative assignment.
+
 
 
 
