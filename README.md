@@ -133,7 +133,7 @@ A 2-3 minute demonstration video showcasing:
 - Responsive design across devices
 - Accessibility features
 
-[Link to demo video]
+[Link to demo video: https://youtu.be/fw2V_sR1zng]
 
 ## Developer
 
@@ -144,6 +144,7 @@ A 2-3 minute demonstration video showcasing:
 ## 📄 License
 
 This project is created for educational purposes as part of a summative assignment.
+
 
 
 
