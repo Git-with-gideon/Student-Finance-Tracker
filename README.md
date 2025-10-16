@@ -27,8 +27,8 @@ A responsive, accessible web application for tracking student financial transact
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd student-finance-tracker
+   git clone https://github.com/Git-with-gideon/Student-Finance-Tracker.git
+   cd Student-Finance-Tracker
    ```
 
 2. **Open in browser**:
@@ -37,7 +37,7 @@ A responsive, accessible web application for tracking student financial transact
 
 3. **No dependencies required** - Pure vanilla HTML, CSS, and JavaScript
 
-## 🧪 Testing
+## Testing
 
 Run the test suite by opening `tests.html` in your browser. The tests verify:
 - Regex validation rules
@@ -45,14 +45,14 @@ Run the test suite by opening `tests.html` in your browser. The tests verify:
 - Data persistence
 - Search capabilities
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Mobile**: ~360px and up
 - **Tablet**: 768px and up  
 - **Desktop**: 1024px and up
 - **Large Desktop**: 1200px and up
 
-## ⌨️ Keyboard Navigation
+## Keyboard Navigation
 
 - **Tab**: Navigate between interactive elements
 - **Enter/Space**: Activate buttons and form controls
@@ -60,7 +60,7 @@ Run the test suite by opening `tests.html` in your browser. The tests verify:
 - **Arrow Keys**: Navigate table rows (when focused)
 - **Skip Link**: Press Tab on page load to skip to main content
 
-## 🔍 Regex Catalog
+## Regex Catalog
 
 ### Validation Patterns
 1. **Description**: `/^\S(?:.*\S)?$/` - No leading/trailing spaces
@@ -73,7 +73,7 @@ Run the test suite by opening `tests.html` in your browser. The tests verify:
 - **Beverage Keywords**: `/(coffee|tea)/i` - Find beverage-related transactions
 - **Duplicate Words**: `/\b(\w+)\s+\1\b/` - Find descriptions with repeated words
 
-## ♿ Accessibility Features
+## Accessibility Features
 
 - **Semantic HTML**: Proper landmarks and heading hierarchy
 - **ARIA Live Regions**: Status updates announced to screen readers
@@ -83,7 +83,7 @@ Run the test suite by opening `tests.html` in your browser. The tests verify:
 - **Screen Reader Support**: Proper labels and descriptions
 - **High Contrast**: Meets WCAG contrast requirements
 
-## 🏗️ Architecture
+## Architecture
 
 ### File Structure
 ```
@@ -111,12 +111,12 @@ student-finance-tracker/
 - **validators.js**: Form validation, regex patterns
 - **search.js**: Search functionality, highlighting
 
-## 🚀 Deployment
+## Deployment
 
 This application is deployed on GitHub Pages. The live version can be accessed at:
 [Your GitHub Pages URL]
 
-## 📊 Sample Data
+## Sample Data
 
 The application includes `seed.json` with 10+ diverse sample transactions including:
 - Various categories and amounts
@@ -124,7 +124,7 @@ The application includes `seed.json` with 10+ diverse sample transactions includ
 - Different description formats
 - Large and small monetary values
 
-## 🎥 Demo Video
+## Demo Video
 
 A 2-3 minute demonstration video showcasing:
 - Keyboard navigation flow
@@ -135,7 +135,7 @@ A 2-3 minute demonstration video showcasing:
 
 [Link to demo video]
 
-## 👨‍💻 Developer
+## Developer
 
 **Erioluwa Gideon Olowoyo**
 - GitHub: [Your GitHub Username]
@@ -144,4 +144,5 @@ A 2-3 minute demonstration video showcasing:
 ## 📄 License
 
 This project is created for educational purposes as part of a summative assignment.
+
 
