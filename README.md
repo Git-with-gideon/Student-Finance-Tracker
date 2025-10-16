@@ -138,12 +138,13 @@ A 2-3 minute demonstration video showcasing:
 ## Developer
 
 **Erioluwa Gideon Olowoyo**
-- GitHub: [Your GitHub Username]
-- Email: [Your Email Address]
+- GitHub: Git-with-gideon
+- Email: e.olowoyo@alustudent.com
 
 ## 📄 License
 
 This project is created for educational purposes as part of a summative assignment.
+
 
 
 
